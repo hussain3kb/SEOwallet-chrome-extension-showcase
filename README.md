@@ -15,15 +15,21 @@ A Chrome extension for SEO analysis including meta tags, headings, and performan
 
 
 ## Screenshots
-(images)
+![Chrome Web Store](/screenshots/chrome-store.png)
+![Screenshot1](/screenshots/1.jpg)
+![Screenshot2](/screenshots/2.jpg)
+![Screenshot3](/screenshots/3.jpg)
+![Screenshot4](/screenshots/4.jpg)
 
 ## Tech Stack
-- JavaScript
+- TypeScript
+- Plasmo (Browser Extension Framwork)
 - Chrome Extension APIs
 - REST APIs
+- Tailwind CSS
 
 ## My Role
-Full development, architecture, and deployment
+Full development, architecture, and deployment.
 
 ## Note
 Code is private due to client/business confidentiality.

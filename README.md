@@ -1,5 +1,11 @@
-# SEOwallet - SEO Extension
-A Chrome extension for SEO analysis including meta tags, headings, and performance insights.
+<h1 align="center">SEOwallet - SEO Extension</h1>
+
+<p align="center">A Chrome extension for SEO analysis including meta tags, headings, and performance insights.</p>
+
+<p align="center">
+  <img src="screenshots/chrome-store-icon.png" width="150" />
+</p>
+
 
 ## Overview
 A Chrome extension for SEO analysis including meta tags, headings, and performance insights.

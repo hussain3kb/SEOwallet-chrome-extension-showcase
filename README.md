@@ -3,7 +3,9 @@
 <p align="center">A Chrome extension for SEO analysis including meta tags, headings, and performance insights.</p>
 
 <p align="center">
+<a target="_blank" href="https://chromewebstore.google.com/detail/seowallet-seo-extension/mmdmglmkoblcdgndchbohenfoglomjfk">
   <img src="screenshots/chrome-store-icon.png" width="150" />
+</a>
 </p>
 
 

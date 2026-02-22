@@ -10,8 +10,9 @@ A Chrome extension for SEO analysis including meta tags, headings, and performan
 - Highlight SEO issues
 - Generate reports
 
-## Demo
-[Video Link]
+## Demo Video
+[![Video tutorial](https://img.youtube.com/vi/EZTWDW_Ln38/0.jpg)](https://www.youtube.com/watch?v=EZTWDW_Ln38)
+
 
 ## Screenshots
 (images)
